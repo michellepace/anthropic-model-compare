@@ -9,4 +9,6 @@ Open Notebook here: [![Open In Colab](https://colab.research.google.com/assets/c
 
 ## Historical Results
 
-It will cost you approximately US$ 1.00 to run the notebook. But if you like you can load historical results (see [Results folder](https://github.com/michellepace/anthropic-model-compare/tree/main/results)).
+It will cost you approximately US$ 1.00 to run the notebook. 
+
+But if you like you can load historical results (see [Results folder](https://github.com/michellepace/anthropic-model-compare/tree/main/results)).
